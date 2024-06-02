@@ -1,4 +1,4 @@
-#Projeto feito para a sprint FIAP 2024 na matéria de `Advanced Programming & Mobile Dev` para o professor `João Carlos Lima e Silva`
+# Projeto feito para a sprint FIAP 2024 na matéria de `Advanced Programming & Mobile Dev` para o professor `João Carlos Lima e Silva`
 
 `3ECR 2024`
 
