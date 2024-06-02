@@ -1,6 +1,6 @@
-`Projeto feito para a sprint FIAP 2024 na matéria de Advanced Programming & Mobile Dev para o professor João Carlos Lima e Silva`
+`Projeto feito para a sprint FIAP 2024 na matéria de Advanced Programming & Mobile Dev para o professor *João Carlos Lima e Silva*`
 
-```3ECR 2024```
+`3ECR 2024`
 
 - Juttahir Moraes da Silva RM96284
 - Edgard Pereira Souza RM 96281
